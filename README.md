@@ -9,15 +9,22 @@ Configuração MAC
   Para conferir se deu certo, no prompt de comando (cmd) execute:
   python -version
 
--- 2 - Instale o pip. 2.1 No bash execute o comando abaixo: sudo easy_install pip
+-- 2 - Instale o pip. 
+
+2.1 No bash execute o comando abaixo: sudo easy_install pip
   Verifique se o pip foi realmente instalado:
   pip --version
 
--- 3 - Instale o robot framework. 3.1 No bash execute o comando abaixo: pip install robotframework
+-- 3 - Instale o robot framework. 
 
--- 4 - Instale o robot framework 4.1 No bash execute o comando abaixo: pip install robotframework-Selenium2Library
+3.1 No bash execute o comando abaixo: pip install robotframework
+
+-- 4 - Instale o robot framework 
+
+4.1 No bash execute o comando abaixo: pip install robotframework-Selenium2Library
 
 -- 5 - Instale os drivers navegador.
+  
   5.1 Para instalar os drivers, precisamos instalar o brew. No bash execute o comando abaixo: /usr/bin/ruby -e "$(curl -fsSL    https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 5.2 Após instalar a brew o chromedriver foi migrado do homebrew/core para homebrew/cask.

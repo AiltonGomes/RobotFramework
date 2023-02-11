@@ -1,7 +1,7 @@
 # Robot Framework
 Projeto de automação em Robot Framework e Selenium WebDriver
 
-Configuração MAC
+Configuração MACÇ
 
 -- 1 - Instalando o Python. 1.1 Baixe o Python no link: https://www.python.org/downloads/
 
@@ -32,9 +32,12 @@ Configuração MAC
   brew cask install chromedriver
 
 !!! Pronto instalação completa
-Configuração Windowns
 
--- 1 - Instalando o Python. 1.1 Baixe o Python no link: https://www.python.org/downloads/
+Configuração Windowns:
+
+-- 1 - Instalando o Python. 
+
+1.1 Baixe o Python no link: https://www.python.org/downloads/
 
   1.2. Instale via executável o executavel baixado. OBS: durante a instalação um dos passos é selecionar para que as variáveis sejam adicionadas ao PATH do windowns.
   Para conferir se deu certo, no prompt de comando (cmd) execute:

@@ -1,4 +1,4 @@
-# RobotFrameworkBasico
+# Robot Framework Basico
 Projeto de automação em Robot Framework e Selenium WebDriver
 
 Configuração MAC

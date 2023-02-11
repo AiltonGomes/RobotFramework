@@ -44,7 +44,9 @@ Configuração Windowns:
   python --version
   pip -- version
 
--- 2 - Intalando o Robot Framework. 2.1 No prompt de comando (cmd) execute e aguarde a instalação: pip install robotframework Para conferir se deu certo, no prompt de comando (cmd) execute: robot --version
+-- 2 - Intalando o Robot Framework. 
+
+  2.1 No prompt de comando (cmd) execute e aguarde a instalação: pip install robotframework Para conferir se deu certo, no prompt de comando (cmd) execute: robot --version
 
   !!! Pronto instalação completa
   -- Sempre que rodar o projeto tem que ser com o comando descrito abaixo, assim ele irá criar os arquivos de outputs dentro de uma pasta log organizando melhor os       arquivos.
